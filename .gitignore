@@ -1,2 +1,3 @@
 /dataset/CORD-19-research-challenge
 .DS_Store
+**/*.ipynb_checkpoints/
