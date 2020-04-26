@@ -4,3 +4,5 @@
 **/LIB.csv
 **/TOKEN.csv
 **/VOCAB.csv
+/dataset/processed-files/*.csv
+/notebooks/generate-tables.ipynb
