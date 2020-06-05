@@ -1,3 +1,5 @@
+manifest_file.pdf
+readme.pdf
 /dataset/CORD-19-research-challenge
 .DS_Store
 **/*.ipynb_checkpoints/
@@ -6,3 +8,5 @@
 **/VOCAB.csv
 /dataset/processed-files/*.csv
 /notebooks/generate-tables.ipynb
+dataset/processed-files/final/*.csv
+notebooks/lda-models/
