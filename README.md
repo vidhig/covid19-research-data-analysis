@@ -1,5 +1,7 @@
 ## COVID-19 Exploratory Analysis of the Research Papers
 
+Dataset Source: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
+
 With the current novel coronavirus COVID-19 pandemic, a lot of research is going on to deal with this crisis. To aid the global research community, an open dataset of scholarly articles called the COVID-19 Open Research Dataset (CORD-19) has been prepared. The CORD-19 dataset contains around 57,000 scholarly articles, including over 45,000 with full text about COVID-19, SARS-CoV-2, and related coronaviruses. The goal is to derive new insights that can help in countering this infectious disease. Going over so many articles manually is tedious, hence in this project we have conducted an exploratory analysis of this dataset to get a better understanding of it.
 
 CORD-19-research-challenge file should be downloaded from Kaggle before running the notebooks. This is done because the data is too large and could not be uploaded directly due to file size restrictions.
